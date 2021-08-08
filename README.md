@@ -3,6 +3,3 @@
   <br/>
   Armisa
 </p>
-### PNG (Beta)
-`https://mydiscord.tolfix.com/png?userId=503266973484843009`
-![PNG](https://mydiscord.tolfix.com/png?userId=503266973484843009
