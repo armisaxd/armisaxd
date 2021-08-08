@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="260" src="https://cdn.tolfix.com/images/TX-Small.png">
+  <img width="260" src="https://media.discordapp.net/attachments/873608981602517022/873913177442775060/45d3f71aaa39a19ac0ccbca180fa98f6-2.jpg?width=353&height=442">
   <br/>
   MyDiscord - Dynamic Readme Status For Discord
 </p>
