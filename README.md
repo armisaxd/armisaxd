@@ -9,11 +9,5 @@
 `https://mydiscord.tolfix.com/png?userId=503266973484843009&banner=true&stroke_circle=banner`
 ![PNG](https://mydiscord.tolfix.com/png?userId=503266973484843009)
 
-
-### SVG (Beta)
-`https://mydiscord.tolfix.com/?userId=503266973484843009`
-<br/>
-![No banner](https://mydiscord.tolfix.com/?userId=503266973484843009&false=true)
-
 # Discord
 [![Discord](https://discord.com/api/guilds/833438897484595230/widget.png?style=banner4)](https://discord.gg/xHde7g93Yh)
