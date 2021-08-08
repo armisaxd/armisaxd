@@ -3,6 +3,6 @@
   <br/>
   Armisa
 </p>
-Profilim (https://mydiscord.tolfix.com/png?userId=503266973484843009)
+![PNG] (https://mydiscord.tolfix.com/png?userId=503266973484843009)
 
 
